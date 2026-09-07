@@ -1,0 +1,6 @@
+{
+  "name": "Banto Auto Detailing",
+  "description": "Premium luxury automotive detailing and car washing services in Los Angeles, California.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
